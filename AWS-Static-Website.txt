@@ -1,0 +1,6 @@
+# 🚀 AWS Static Website Hosting
+
+![Project Architecture](./architecture/diagram.png)
+
+## 📌 Overview
+This project demonstrates a serverless web hosting solution using AWS S3, Route 53, and CloudFront.

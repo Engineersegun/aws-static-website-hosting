@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My AWS Hosted Site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Project: Static Website Hosting</h1>
+        <p>This site is successfully hosted on <strong>Amazon S3</strong> and delivered via <strong>CloudFront</strong>.</p>
+        <div id="status-box">Status: Online</div>
+    </div>
+</body>
+</html>
